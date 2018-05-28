@@ -1,0 +1,72 @@
+{
+    "en": {
+        "firstScene1": "Welcome to 'Professor Raccoon's Lab'!",
+        "firstScene2": "Today we are going to learn about energy production.",
+        "firstScene3": "Energy is literally everywhere! It's all around us and even inside of us.",
+        "firstScene4": "Energy does all sorts of things for us. But where does energy come from?",
+        "firstScene5": "Let's go for a ride and figure that out!",
+
+        "mapStep1": "Road to coal plant",
+        "mapStep2": "Wind turbines",
+        "mapStep3": "Road to city",
+        "mapStep4": "Last mission!",
+
+        "firstCarArrived1": "You found a coal power plant!",
+        "firstCarArrived2": "Let's go inside and discover more about energy.",
+
+        "coalPlant1": "How does energy production works? Well, it turns out that we don't 'produce' anything!",
+        "coalPlant2": "What is really happening - we convert energy from one form to another.",
+        "coalPlant3": "Because energy can't be created or destroyed, it can be only converted.",
+        "coalPlant4": "How this coal plant converts energy? Let's find out!",
+        "coalPlant5": "Chemical energy stored in Coal.",
+        "coalPlant6": "Inside the furnace, chemical energy is converted into heat energy.",
+        "coalPlant7": "This heat energy is used to heat water into steam. Heat energy is converted into kinetic energy.",
+        "coalPlant8": "As the steam travels through the turbines it causes the generator to spin.",
+        "coalPlant9": "The generator converts kinetic energy into electrical energy.",
+        "coalPlant10": "Isn't it cool? Great, time to move forward.",
+
+        "thirdScene1": "Well done! Now you know how the power plant works!",
+        "thirdScene2": "I have a little test for you.",
+        "thirdScene3": "But let's ride to the wind turbines first. Try to collect as many coins as you can!",
+
+        "fourthScene1": "Hello there! I'm Professor Owl. Just making some experiments with worms here.",
+        "fourthScene2": "Huh? Did Raccoon tell you about energy production?",
+        "fourthScene3": "I have a little test for you then!",
+
+        "letsMake": "Put energy types in the correct order!",
+        "weMade": "Well done!",
+
+        "enrgyForm1": "Kinetic",
+        "enrgyForm2": "Thermal",
+        "enrgyForm3": "Electrical",
+        "enrgyForm4": "Chemical",
+
+        "correct": "Correct!",
+        "welldone": "Well done!",
+        "wrongPos": "Sorry, wrong position.",
+        "holdAndDrag": "Hold and drag words.",
+        "youcompleted": "Congratulations! You have completed the game!",
+        "size": "Size",
+
+        "windTurbinesScene1": "One of the fastest-growing sources of energy in the world,",
+        "windTurbinesScene2": "wind turbines generate electricity without emitting greenhouse gases into the environment.",
+        "windTurbinesScene3": "These modern-day windmills convert mechanical energy from the wind into electrical power.",
+        "windTurbinesScene4": "Electrical power travels from the power plant to your house through the power distribution grid.",
+        "windTurbinesScene5": "Since large amounts of energy cannot be stored, electricity must be produced as it is used.",
+        "windTurbinesScene6": "But we also have physically transportable energy storage devices - batteries.",
+        "windTurbinesScene7": "It is important to be able to concentrate energy so that it is available for use where and when it is needed.",
+
+        "yourscore": "Your score",
+
+        "sceneSix1": "That was an amazing adventure, my friend, hope you liked it.",
+        "sceneSix2": "Go to the last stage to earn bonus points, good luck!"
+    },
+   "_meta":{
+    "maxChars": {
+        "enrgyForm1": 14,
+        "enrgyForm2": 14,
+        "enrgyForm3": 14,
+        "enrgyForm4": 14
+    }
+   }
+}
